@@ -12,7 +12,7 @@
 **4+ years** building scalable web applications, intelligent RAG systems, and high-performance data pipelines —
 from database schema to Dockerized production deployment.
 
-Currently open to: **Full Stack · AI/LLM · Backend · Remote / Hybrid roles**
+Currently open to: **Full Stack · AI/LLM · Backend · Remote / Hybrid / on-site  roles**
 
 </div>
 
